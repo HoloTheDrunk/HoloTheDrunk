@@ -1,4 +1,4 @@
-### Hi there 👋
+### A few GitHub stat cards (not representative of all my personal projects)
 
 <!--
 **HoloTheDrunk/HoloTheDrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HoloTheDrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoloTheDrunk&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/HoloTheDrunk/HoloTheDrunk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HoloTheDrunk&include_all_commits=true&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+_________
+<a href="https://github.com/HoloTheDrunk/HoloTheDrunk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoloTheDrunk&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
