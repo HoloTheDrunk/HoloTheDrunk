@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/HoloTheDrunk/HoloTheDrunk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HoloTheDrunk&include_all_commits=true&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-_________
+___
 <a href="https://github.com/HoloTheDrunk/HoloTheDrunk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoloTheDrunk&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
