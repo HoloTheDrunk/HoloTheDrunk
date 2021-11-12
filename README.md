@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 ___
 <a href="https://github.com/HoloTheDrunk/HoloTheDrunk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoloTheDrunk&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoloTheDrunk&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
