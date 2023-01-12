@@ -1,5 +1,3 @@
-### A few GitHub stat cards (not representative of all my personal projects)
-
 <!--
 **HoloTheDrunk/HoloTheDrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Everything must be "🚀 blazingly fast 🚀"
+### Everything must be "🚀 blazingly fast 🚀"
